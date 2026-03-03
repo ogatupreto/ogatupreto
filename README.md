@@ -2,8 +2,7 @@
 
 Meu nome é Gabriel, este é meu repositório git...
 
-🔭 Atualmente trabalhando em empresa privada </br>
-🔍 Estudando Python e Ciência de dados </br>
+🔍 Estudando Engenharia de Software </br>
 🤝 Organizando uma equipe de projetos </br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4D80E6&color:FFF)](https://www.linkedin.com/in/gabriel-augusto7/)
