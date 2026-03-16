@@ -1,22 +1,39 @@
-### Olá amigo 👋
+## Olá amigo 👋
 
-Meu nome é Gabriel, este é meu repositório git...<br>
-Cursando Engenharia de Software<br>
+#### Sobre mim
+Sou Gabriel, estudante de Engenharia de Software na Uni. Descomplica.
+
+Mais de 15 anos no ramo da tecnologia estudando tópicos diversos, como sistemas operacionais, redes de computadores, programação e otimizações/automações para windows.
+
+Famoso TI (tudo incluso). De orçamentos, montagens, até sistemas diversos, planilhas, impressoras e etc.
 
 ---
 
-#### Redes sociais
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4D80E6&color:FFF)](https://www.linkedin.com/in/gabriel-augusto7/)
-[![Instagram](https://img.shields.io/badge/-augusto.img-000?style=for-the-badge&logo=instagram&logoColor=E63F5F&color:FFF)](https://www.instagram.com/augusto.img/)
-<br>
+<p style="text-align: center;">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,npm&theme=dark"/>
+        <img src="./svg/sheets.svg" style="height:48px;width:48px;"/>
+        <img src="./svg/gas.svg" style="height:48px;width:48px"/>
+    </a>  
+<p>
 
-#### Sistemas operacionais
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br>
+<p style="text-align:center;">
+    <a href="https://linkedin.com/in/gabriel-augusto7">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+    </a>
+</p>
 
-#### Tecnologias estudadas
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-000?style=for-the-badge&logo=googlesheets&logoColor=fffffff&color:FFF)
-![GoogleApps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<p style="text-align:center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogatupreto&layout=compact"/>
+</p>
+
+
+
+
+<!-- 
+🥚 easter egg
+
+instagram.com/augusto.img
+instagram.com/ogatupreto
+-->
